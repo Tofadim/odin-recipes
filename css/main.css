@@ -1,3 +1,7 @@
+body{
+    background-color: rgba(230, 234, 175, 0.731);
+}
+
 ul li{
     list-style: none;
     padding: 10px;
@@ -8,8 +12,10 @@ header {
     top: 20px;
     text-align: center;
     padding-bottom: 25px;
+    color: rgba(42, 112, 113, 0.907)
 }
 
 img[src^="images/"] {
-    border: 1px solid black;
+    border: 1px solid rgba(75, 74, 74, 0.731);
 }
+
