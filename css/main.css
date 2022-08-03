@@ -1,21 +1,52 @@
 body{
-    background-color: rgba(230, 234, 175, 0.731);
+    background: rgba(230, 234, 175, 0.731);
 }
 
 ul li{
     list-style: none;
     padding: 10px;
-    display: inline;
+    display: inline-block;
 }
+
 header {
     position: relative;
     top: 20px;
     text-align: center;
     padding-bottom: 25px;
-    color: rgba(42, 112, 113, 0.907)
+    color: rgba(42, 112, 113, 0.907);
+}
+
+h2 {
+    color: rgba(42, 112, 113, 0.907);
+}
+
+h3 {
+    color: rgba(49, 56, 176, 0.907);
+}
+
+ol {
+    text-align: left;
+    list-style: circle;
 }
 
 img[src^="images/"] {
     border: 1px solid rgba(75, 74, 74, 0.731);
 }
 
+#chicken-picture {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+#cornbeef-picture {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+#pasta-picture {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
