@@ -10,6 +10,6 @@ header {
     padding-bottom: 25px;
 }
 
-img[src^="../images/"] {
-    border: 5px solid black;
+img[src^="images/"] {
+    border: 1px solid black;
 }
