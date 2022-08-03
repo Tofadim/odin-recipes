@@ -9,3 +9,7 @@ header {
     text-align: center;
     padding-bottom: 25px;
 }
+
+img[src^="../images/"] {
+    border: 5px solid black;
+}
