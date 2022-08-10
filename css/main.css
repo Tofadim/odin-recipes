@@ -1,5 +1,7 @@
 body{
     background: linear-gradient(to right, rgba(230, 234, 175, 0.931),rgba(238, 252, 47, 0.5));
+    text-align: justify;
+    font-size: 1.15em;
 }
 
 ul li{
@@ -16,10 +18,12 @@ header {
     padding-bottom: 25px;
     text-decoration: underline;
     color: rgba(42, 112, 113, 0.907);
+    font-weight: 800;
 }
 
 h2 {
     color: rgba(42, 112, 113, 0.907);
+    font-weight: 800;
 }
 
 h3 {
