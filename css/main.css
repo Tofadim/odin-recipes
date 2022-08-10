@@ -14,6 +14,7 @@ header {
     top: 20px;
     text-align: center;
     padding-bottom: 25px;
+    text-decoration: underline;
     color: rgba(42, 112, 113, 0.907);
 }
 
