@@ -21,6 +21,8 @@ h3 {
     color: rgba(49, 56, 176, 0.907);
     font-style: italic;
     text-decoration: underline;
+    font-size: 150%;
+    text-align: left;
 }
 
 ul li{
@@ -31,7 +33,7 @@ ul li{
 
 #main-menu {
     margin-left: -40px;
- }
+}
 
 ol {
     text-align: left;
