@@ -1,7 +1,7 @@
 body{
     background: linear-gradient(to right, rgba(230, 234, 175, 0.931),rgba(238, 252, 47, 0.5));
     text-align: justify;
-    font-size: 1.15em;
+    font-family: 'Roboto', sans-serif;
 }
 
 ul li{
@@ -27,6 +27,7 @@ h2 {
 h3 {
     color: rgba(49, 56, 176, 0.907);
     font-style: italic;
+    text-decoration: underline;
 }
 
 ol {
