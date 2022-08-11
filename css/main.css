@@ -18,16 +18,15 @@ header {
     padding-bottom: 25px;
     text-decoration: underline;
     color: rgba(42, 112, 113, 0.907);
-    font-weight: 800;
 }
 
 h2 {
     color: rgba(42, 112, 113, 0.907);
-    font-weight: 800;
 }
 
 h3 {
     color: rgba(49, 56, 176, 0.907);
+    font-style: italic;
 }
 
 ol {
