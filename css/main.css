@@ -63,3 +63,7 @@ img[src^="images/"] {
     justify-content: center;
     width: auto;
 }
+
+.Directions {
+    text-align: left;
+}
