@@ -1,6 +1,7 @@
 body{
     background: linear-gradient(to right, rgba(230, 234, 175, 0.931),rgba(238, 252, 47, 0.5));
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 header {
@@ -14,6 +15,7 @@ header {
 
 h2 {
     color: rgba(42, 112, 113, 0.907);
+    text-align: left;
 }
 
 h3 {
@@ -21,12 +23,14 @@ h3 {
     font-style: italic;
     text-decoration: underline;
     font-size: 150%;
+    text-align: left;
 }
 
 ul li{
     list-style: none;
     padding: 10px;
     display: inline-flex;
+    text-align: left;
 }
 
 #main-menu {
@@ -35,6 +39,7 @@ ul li{
 
 ol {
     list-style: circle;
+    text-align: left;
 }
 
 img[src^="images/"] {
